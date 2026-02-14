@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }  
+body {
+ font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(192, 237, 243);
+  height: 100vh;
+}
+.centrico {
+    text-align: center;
+    padding: 50px;
+    }
+
+ .texto-blanco{ 
+    color: azure;
+ } 
+header {
+    background-color: rgb(44, 199, 147);
+    color:rgb(8, 36, 61);
+    text-align: center;
+    padding: 20px;
+}   
+h1 {
+    font-size: 2.5em;
+  color: rgb(24, 110, 89);
+  margin-top: 10px;
+}
+  
+h2 {
+    font-size: 1.5em;
+  color: rgb(26, 138, 110);
+  margin-top: 10px;
+}
+   
+img {
+    border-radius: 10%;
+    border: 2px solid white;
+}   
+section {
+   text-align: center;
+}
+.card{
+background-color: rgb(214, 250, 232);
+padding: 50px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgb(102, 124, 153);
+margin-top: 30px;
+}
